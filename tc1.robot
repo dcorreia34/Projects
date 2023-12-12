@@ -3,8 +3,6 @@ Library  SeleniumLibrary
 Library    String
 Library  BuiltIn
 
-*** Variables ***
-
 *** Test Cases ***
 Test
     Open Browser    https://automationexercise.com/     chrome
